@@ -1,0 +1,17 @@
+{
+  "author": "Greg Senia",
+  "dependencies": [
+    {
+      "version_requirement": ">=3.2.1",
+      "name": "puppetlabs-stdlib"
+    } ]
+   "license": "",
+  "name": "gss2002-lvmconfig",
+  "operatingsystem_support": [Redhat],
+  "project_page": "https://github.com/gss2002/puppet-lvmconfig",
+  "requirements": [],
+  "source": "https://github.com/gss2002/puppet-lvmconfig",
+  "summary": "Allows configuration of /etc/lvm/lvm.conf",
+  "tags": [],
+  "version": "0.1.0"
+}
